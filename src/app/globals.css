@@ -165,3 +165,18 @@ a {
   opacity: 0.7;
   margin-top: 1.5rem;
 }
+
+.search-container {
+  display: flex;
+  justify-content: flex-end; /* Aligns the input to the right */
+  padding: 10px;
+}
+
+.search-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px; /* Adjust width as needed */
+  outline: none;
+}
+

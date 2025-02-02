@@ -169,4 +169,18 @@ a {
   margin-top: 1.5rem;
 }
 
+.search-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.search-input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+  outline: none;
+}
+
 /*# sourceMappingURL=src_app_globals_b52d8e.css.map*/
